@@ -6,7 +6,7 @@ defusedxml==0.6.0
 Django==3.0.7
 django-allauth==0.42.0
 django-phone-field==1.8.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 feedparser==5.2.1
 idna==2.9
 newsapi==0.1.1
