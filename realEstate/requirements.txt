@@ -12,7 +12,7 @@ idna==2.9
 newsapi==0.1.1
 newsapi-python==0.2.6
 oauthlib==3.1.0
-Pillow==7.1.2
+Pillow==8.2.0
 python3-openid==3.1.0
 pytz==2020.1
 requests==2.23.0
